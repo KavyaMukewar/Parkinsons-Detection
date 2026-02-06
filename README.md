@@ -2,7 +2,7 @@
 
 This project focuses on building a machine learning-based system to detect Parkinson's Disease (PD) early and accurately using clinical and biometric data. The system utilizes advanced ML models to analyze patterns in voice recordings, hand tremor data, or other motor and non-motor symptoms associated with Parkinson’s.  
 
-Key features include:  
+Key features:  
 - **Data-Driven Insights**: Processes diverse datasets, such as voice frequency variations, movement irregularities, or handwriting analysis, to identify subtle biomarkers of Parkinson’s.  
 - **Machine Learning Models**: Employs supervised learning techniques, such as Random Forest, Support Vector Machines (SVM), or deep learning models (e.g., neural networks), for classification and prediction.  
 - **Feature Engineering**: Extracts meaningful features like amplitude, frequency, jitter, and tremor patterns to enhance model performance.  
